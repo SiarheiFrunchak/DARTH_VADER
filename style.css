@@ -50,7 +50,7 @@ a:hover{text-decoration:underline}
 .vader .eyes .right{right:7px}
 .vader .torso{position:relative;width:60px;height:80px;border-radius:50px 50px 0 0;margin:0 auto;background:#222222}
 .vader .torso::before{content:'';display:inline-block;position:absolute;left:-20px;top:-15px;width:100px;height:115px;border-radius:50px 50px 0 0;margin:0 auto;background:#040507;z-index:-1}
-.vader .belt{position:absolute;bottom:0;width:100%;height:10px;background:#040507}
+.vader .belt{position:absolute;bottom:0;right:0;width:100%;height:10px;background:#040507}
 .vader .belt span::before{content:'';position:absolute;top:0;left:50%;width:20px;height:10px;border-radius:10px;margin-left:-10px;background:#C6C6C6}
 .vader .neck{position:absolute;left:6px;top:3px;width:48px;height:8px;background:#010000;z-index:5}
 .vader .neck::before{content:'';position:absolute;top:-8px;left:8px;width:32px;height:10px;background:#222222;border-radius:0 0 4px 4px}
