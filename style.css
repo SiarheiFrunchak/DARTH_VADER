@@ -100,7 +100,7 @@ a:hover{text-decoration:underline}
 .vader:hover .eyes .left{background:#d81f27}
 .vader:hover .eyes .right{background:#455caa}
 
-.moon {position:absolute;left: 35%;top:25%;margin:-100px;width:200px;height:200px;background: #c7cbd0;border-radius:50%;box-shadow:inset -25px 0px 0 0px #9098a1;transition: transform 0.2s ease-in-out;}  
+.moon {position:absolute;left: 35%;top:25%;margin:-100px;width:200px;height:200px;background: #c7cbd0;border-radius:50%;box-shadow:inset -20px -3px 1px 7px #9098a1;transition: transform 0.2s ease-in-out;}  
   .moon:hover {transform: scale(1.2);}
   li{position:absolute;list-style:none;background: #737277;border-radius:50%;}
   li:nth-child(1){left:25px;top:60px;width:50px;height:50px;box-shadow:inset 6px -2px 0 0px #414043;}
